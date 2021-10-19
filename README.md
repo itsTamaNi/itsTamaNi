@@ -1,6 +1,6 @@
 <p>
    <div align="center">
-  <img align="right" height="270px" alt="GIF" src="https://cdn.discordapp.com/attachments/889914614014410778/899412340146057236/eb1adbec173091c225ad27e8ca55f0ac.gif?cid=95b279447b8d627196ccacd09b85cd79a4e548e36a73d969&rid=200.gif&ct=g"/>
+
   </div>
   <h1 align="center"><b>Hi, Welcome To TamaNi Profile.  🌀</b></h1>
   <h6 align="center"> 
@@ -14,12 +14,12 @@
   ### ____________________________________________
 
 ### // Information About Me:
-<strong>I'm Lua Developer, JS Developer, Py Developer, Html Developer, Php Developer, Css Developer.</strong>
+- 🌀 <strong>I'm Lua Developer, JS Developer, Py Developer, Html Developer, Php Developer, Css Developer.</strong>
 ### _____________________________________________
 ### // My GitHub Projects:
-Projects Number: <strong>0<strong>
+- ⭐ Projects Number: <strong>0<strong>
 
-<strong>None.<strong>
+- <strong>None.<strong>
 
 ### _____________________________________________
 
