@@ -14,8 +14,7 @@
   ### ____________________________________________
 
 ### // Information About Me:
-I'm Lua Developer, JS Developer, Py Developer, Html Developer, Php Developer, Css Developer.</strong>
-Discord: <strong>TamaNi#9999</strong>.
+<strong>I'm Lua Developer, JS Developer, Py Developer, Html Developer, Php Developer, Css Developer.</strong>
 ### _____________________________________________
 
 ______________________________________________________
