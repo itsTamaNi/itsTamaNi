@@ -2,9 +2,10 @@
    <div align="center">
 
   </div>
-  <h1 align="center"><b>Hi, Welcome To TamaNi Profile.  🌀</b></h1>
+  <h1 align="center"><b>Hi, Welcome To TamaNi Profile.  :cyclone:</b></h1>
   <h6 align="center"> 
       <i>/ https://github.com/itsTamaNi /</i>
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/itsTamaNi" />
    </h6>
 </p>
 
@@ -14,10 +15,10 @@
   ### ____________________________________________
 
 ### // Information About Me:
-- 🌀 <strong>I'm Lua Developer, JS Developer, Py Developer, Html Developer, Php Developer, Css Developer.</strong>
+- :cyclone: <strong>I'm Lua Developer, JS Developer, Py Developer, Html Developer, Php Developer, Css Developer.</strong>
 ### _____________________________________________
 ### // My GitHub Projects:
-- ⭐ Projects Number: <strong>0<strong>
+- :star: Projects Number: <strong>0<strong>
 
 - <strong>None.<strong>
 
@@ -25,4 +26,3 @@
 
 ______________________________________________________
 ## [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/876094663096930365)](https://discord.com/users/876094663096930365)
-
