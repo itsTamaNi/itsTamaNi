@@ -4,7 +4,7 @@
   </div>
   <h1 align="center"><b>Hi, Welcome To TamaNi Profile.  :cyclone:</b></h1>
   <h6 align="center"> 
-      <i>/ https://github.com/itsTamaNi /</i>
+      <i>https://github.com/itsTamaNi | </i>
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/itsTamaNi" />
    </h6>
 </p>
